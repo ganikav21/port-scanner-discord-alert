@@ -26,5 +26,3 @@ Port 80: OPEN
 - Service/Banner detection  
 - UDP scanning  
 
-## 📸 Screenshots
-(Add your terminal + Discord screenshots here)
